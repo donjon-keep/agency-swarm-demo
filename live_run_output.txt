@@ -1,0 +1,9 @@
+== captured from live run 2026-11-09 vs local llama.cpp-class server (127.0.0.1:8080) ==
+Here's the Q2 top-line summary from the Analyst:
+
+**Q2 Top-Line Summary**
+- **Revenue:** 58,750
+- **Deals closed:** 24
+- **Top-line highlight:** Two enterprise pilots
+
+The Analyst also logged this summary to `notes.log` for the record.

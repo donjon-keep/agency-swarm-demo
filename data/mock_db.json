@@ -1,0 +1,6 @@
+{
+  "Q1": {"revenue": 41200, "deals": 19, "top_line": "self-serve signups"},
+  "Q2": {"revenue": 58750, "deals": 24, "top_line": "two enterprise pilots"},
+  "Q3": {"revenue": 72300, "deals": 31, "top_line": "enterprise expansion"},
+  "Q4": {"revenue": null, "deals": null, "top_line": "quarter in progress"}
+}
